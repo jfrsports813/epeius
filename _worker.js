@@ -1,6 +1,6 @@
 // _worker.js
 import { connect } from "cloudflare:sockets";
-let password = 'qq8659171';
+let password = 'popo0759';
 let proxyIP = '';
 // The user name and password do not contain special characters
 // Setting the address will ignore proxyIP
